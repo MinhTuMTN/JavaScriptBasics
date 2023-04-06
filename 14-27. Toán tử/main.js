@@ -1,3 +1,5 @@
+// Toán tử số học
+
 var a = 5;
 var b = 6;
 
@@ -19,3 +21,5 @@ var c = 8;
 
 console.log(c++);
 console.log(c);
+
+// Toán tử gán

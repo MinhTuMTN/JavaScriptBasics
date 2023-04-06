@@ -43,3 +43,15 @@ console.log(c);
 ```
 
 Trong đoạn code trên có dòng **console.log(c++)**, lúc này sẽ in ra 8 sau đó mới công thêm 1 đơn vị. Chính vì vậy mà lúc sau mới in ra giá trị 9.
+
+## Toán tử gán
+
+| Ký hiệu | Ví dụ     | Tương đương  |
+| ------- | --------- | ------------ |
+| =       | a = b     | a = b        |
+| +=      | a += b    | a = a + b    |
+| -=      | a -= b    | a = a - b    |
+| \*=     | a \*= b   | a = a \* b   |
+| /=      | a /= b    | a = a / b    |
+| %=      | a %= b    | a = a % b    |
+| \*\*=   | a \*\*= b | a = a \*\* b |
