@@ -44,6 +44,11 @@ console.log(c);
 
 Trong đoạn code trên có dòng **console.log(c++)**, lúc này sẽ in ra 8 sau đó mới công thêm 1 đơn vị. Chính vì vậy mà lúc sau mới in ra giá trị 9.
 
+- x++ tăng giá trị biến lên 1 và trả về giá trị trước khi tăng
+- ++x tăng giá trị biến lên 1 và trả về giá trị sau khi tăng
+- x-- giảm giá trị biến xuống 1 và trả về giá trị trước khi giảm
+- --x giảm giá trị biến xuống 1 và trả về giá trị sau khi giảm
+
 ## Toán tử gán
 
 | Ký hiệu | Ví dụ     | Tương đương  |
