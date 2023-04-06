@@ -83,3 +83,14 @@ console.log(a + b + c); // 121314
 console.log(b + " " + c); // 13 14
 console.log(a + c + b); // 2613
 ```
+
+## Toán tử so sánh cơ bản
+
+| Ký hiệu | Công dụng                 |
+| ------- | ------------------------- |
+| ==      | Bằng (sau này còn có ===) |
+| !=      | Không bằng                |
+| >       | Lớn hơn                   |
+| <       | Nhỏ hơn                   |
+| >=      | Lớn hơn hoặc bằng         |
+| <=      | Nhỏ hơn hoặc bằng         |
