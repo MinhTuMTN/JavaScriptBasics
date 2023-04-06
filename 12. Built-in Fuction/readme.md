@@ -1,5 +1,7 @@
 # Built-in Fuction
 
+Built-in Functions là những hàm có sẵn trong JavaScript
+
 ## alert
 
 Hiển thị một cửa sổ popup thông báo
