@@ -51,3 +51,13 @@ console.log(number2); // 3
 var a = 3;
 var b = ++a * 2 + a++;
 // b = 4*2 + 4 = 12
+
+//// Toán tử nối chuỗi
+var a = 12;
+var b = "13";
+var c = 14;
+
+console.log(a + "Minh Tú"); // 12Minh Tú
+console.log(a + b + c); // 121314
+console.log(b + " " + c); // 13 14
+console.log(a + c + b); // 2613

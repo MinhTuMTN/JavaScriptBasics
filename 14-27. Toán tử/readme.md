@@ -60,3 +60,26 @@ Trong đoạn code trên có dòng **console.log(c++)**, lúc này sẽ in ra 8 
 | /=      | a /= b    | a = a / b    |
 | %=      | a %= b    | a = a % b    |
 | \*\*=   | a \*\*= b | a = a \*\* b |
+
+## Toán tử nối chuỗi
+
+Để nối 2 chuỗi với nhau ta dùng toán tử **+**.
+Nếu một trong 2 bên là chuỗi thì kết quả sẽ là một chuỗi  
+Ví dụ:
+
+```js
+console.log("12" + 3); // 123 (kiểu str)
+```
+
+Một số ví dụ khác:
+
+```js
+var a = 12;
+var b = "13";
+var c = 14;
+
+console.log(a + "Minh Tú"); // 12Minh Tú
+console.log(a + b + c); // 121314
+console.log(b + " " + c); // 13 14
+console.log(a + c + b); // 2613
+```
